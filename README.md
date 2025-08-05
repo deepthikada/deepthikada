@@ -7,7 +7,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renukacsit&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renukacsit&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepthi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepthi&layout=compact)
 ## 📫 Connect with Me- ✉️ Email: deepthi@example.com- 🔗 LinkedIn: [Deepthi Profile](https://linkedin.com/in/deepthi-example)
 
