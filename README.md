@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there👋. I am Deepthi Kadaveru
+CSE Student | Tech Enthusiast
 
-<!--
-**deepthikada/deepthikada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on C,Java,React
+🌱 I’m currently learning  Computer networks, Cyber security
 
-Here are some ideas to get you started:
+TECH STACK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C ![Static Badge](https://img.shields.io/badge/C-language-red?style=for-the-badge&logoColor=white&logoSize=auto&label=C&labelColor=black&color=red)
+java ![Static Badge](https://img.shields.io/badge/java-blue?style=for-the-badge&logo=fila&logoColor=white&logoSize=auto&labelColor=black&color=blue)
+
+github stats
+![deepthikadaveru's Stats](https://github-readme-stats.vercel.app/api?username=deepthikadaveru&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+linkedin
+https://www.linkedin.com/search/results/people/?firstName=%20&lastName=Kadaveru&origin=SEO_PSERP&sid=cTe
+
